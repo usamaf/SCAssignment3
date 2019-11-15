@@ -31,3 +31,5 @@ public class Calculator {
       return (double) number1 / number2;
    }
 }
+--------------------------------------
+Changing
